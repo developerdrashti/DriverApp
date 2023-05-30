@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "125911462499",
+    "project_id": "dropikmed001-85982",
+    "storage_bucket": "dropikmed001-85982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125911462499:android:059345d37d5cf9b8d9fe56",
+        "android_client_info": {
+          "package_name": "com.netpair.dropikemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125911462499-b25v46jeihcpi38di80sd7i88c2m8cts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.netpair.dropikemapp",
+            "certificate_hash": "cbec7e825a54f6e5a730d0ab10a0c52fc6186fb3"
+          }
+        },
+        {
+          "client_id": "125911462499-7car7rs9bci1ag4lth84d7k258lrk75c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2nr8u9LgYdN1JZ7FRSjzg798WNireQtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125911462499-7car7rs9bci1ag4lth84d7k258lrk75c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "125911462499-h3p2ov4v9v5fanvo92a0vrbl92pv287s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.netpair.dropikmed001"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
